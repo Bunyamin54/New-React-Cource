@@ -20,6 +20,15 @@ Wappalayzer uygulamalri detayli hbangi dil kullanildigini gosterir
 Turuncu olursa development asamasinda oldugunu gosterir, Mavi olursa product canlida anlami verir.  Hepsiburda Trendyol Getir tr deki 
 
 
+Projeyi nasil calistiririz ?
+
+yarn create react-app my-app 
+
+yarn install
+
+yarn add axios / veya ne istersen for eksempel bootstrap 
+
+yarn start
 
 
 
