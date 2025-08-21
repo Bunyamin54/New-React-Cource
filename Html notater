@@ -1,0 +1,26 @@
+React 
+
+Dom = Document Object Model 
+
+Virtual Dom = Dom manipasyonlarini azaltmaktir amaci budur , anlik degerleri alip back update yapmak , frontend tarafininda kullanilir, yavas calisir, veri akisini hizlandirmak , kopya uzerinde calismak, hizli calisan bir uygulama hedeflemistir, 
+
+
+DRY prensibi : Dont repeat yourself! 
+
+Reactin felsefesi alt componentleree bolerek guncelllemeleri saglamak , uyuglamanin kucuk yapi taslarina ayirip ilgili guncellene yerler sadece update edilir. 
+
+
+Dunyada Airnbn, Facebook Instegram Netflix Udemy Twtter Pinterest  tarafindan kullaniliyor. 
+
+Npm trends guncel verileri gosterir.
+
+React dev tool 
+Wappalayzer uygulamalri detayli hbangi dil kullanildigini gosterir 
+
+Turuncu olursa development asamasinda oldugunu gosterir, Mavi olursa product canlida anlami verir.  Hepsiburda Trendyol Getir tr deki 
+
+
+
+
+
+
